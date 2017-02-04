@@ -101,6 +101,7 @@ PRODUCT_PACKAGES += \
 # Camera
 PRODUCT_PACKAGES += \
     libshims_camera \
+    camera.msm8974 \
     Camera2
 
 # Data
